@@ -1,0 +1,15 @@
+C:\Users\mysta\Desktop\Учеба Питон\DZ8\Zadacha054_YporyadNaUbuv\bin\Debug\net6.0\Zadacha054_YporyadNaUbuv.exe
+C:\Users\mysta\Desktop\Учеба Питон\DZ8\Zadacha054_YporyadNaUbuv\bin\Debug\net6.0\Zadacha054_YporyadNaUbuv.deps.json
+C:\Users\mysta\Desktop\Учеба Питон\DZ8\Zadacha054_YporyadNaUbuv\bin\Debug\net6.0\Zadacha054_YporyadNaUbuv.runtimeconfig.json
+C:\Users\mysta\Desktop\Учеба Питон\DZ8\Zadacha054_YporyadNaUbuv\bin\Debug\net6.0\Zadacha054_YporyadNaUbuv.dll
+C:\Users\mysta\Desktop\Учеба Питон\DZ8\Zadacha054_YporyadNaUbuv\bin\Debug\net6.0\Zadacha054_YporyadNaUbuv.pdb
+C:\Users\mysta\Desktop\Учеба Питон\DZ8\Zadacha054_YporyadNaUbuv\obj\Debug\net6.0\Zadacha054_YporyadNaUbuv.csproj.AssemblyReference.cache
+C:\Users\mysta\Desktop\Учеба Питон\DZ8\Zadacha054_YporyadNaUbuv\obj\Debug\net6.0\Zadacha054_YporyadNaUbuv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mysta\Desktop\Учеба Питон\DZ8\Zadacha054_YporyadNaUbuv\obj\Debug\net6.0\Zadacha054_YporyadNaUbuv.AssemblyInfoInputs.cache
+C:\Users\mysta\Desktop\Учеба Питон\DZ8\Zadacha054_YporyadNaUbuv\obj\Debug\net6.0\Zadacha054_YporyadNaUbuv.AssemblyInfo.cs
+C:\Users\mysta\Desktop\Учеба Питон\DZ8\Zadacha054_YporyadNaUbuv\obj\Debug\net6.0\Zadacha054_YporyadNaUbuv.csproj.CoreCompileInputs.cache
+C:\Users\mysta\Desktop\Учеба Питон\DZ8\Zadacha054_YporyadNaUbuv\obj\Debug\net6.0\Zadacha054_YporyadNaUbuv.dll
+C:\Users\mysta\Desktop\Учеба Питон\DZ8\Zadacha054_YporyadNaUbuv\obj\Debug\net6.0\refint\Zadacha054_YporyadNaUbuv.dll
+C:\Users\mysta\Desktop\Учеба Питон\DZ8\Zadacha054_YporyadNaUbuv\obj\Debug\net6.0\Zadacha054_YporyadNaUbuv.pdb
+C:\Users\mysta\Desktop\Учеба Питон\DZ8\Zadacha054_YporyadNaUbuv\obj\Debug\net6.0\Zadacha054_YporyadNaUbuv.genruntimeconfig.cache
+C:\Users\mysta\Desktop\Учеба Питон\DZ8\Zadacha054_YporyadNaUbuv\obj\Debug\net6.0\ref\Zadacha054_YporyadNaUbuv.dll
