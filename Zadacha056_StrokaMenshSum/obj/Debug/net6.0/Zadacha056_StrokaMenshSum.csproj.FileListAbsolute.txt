@@ -1,0 +1,15 @@
+C:\Users\mysta\Desktop\Учеба Питон\DZ8\Zadacha056_StrokaMenshSum\bin\Debug\net6.0\Zadacha056_StrokaMenshSum.exe
+C:\Users\mysta\Desktop\Учеба Питон\DZ8\Zadacha056_StrokaMenshSum\bin\Debug\net6.0\Zadacha056_StrokaMenshSum.deps.json
+C:\Users\mysta\Desktop\Учеба Питон\DZ8\Zadacha056_StrokaMenshSum\bin\Debug\net6.0\Zadacha056_StrokaMenshSum.runtimeconfig.json
+C:\Users\mysta\Desktop\Учеба Питон\DZ8\Zadacha056_StrokaMenshSum\bin\Debug\net6.0\Zadacha056_StrokaMenshSum.dll
+C:\Users\mysta\Desktop\Учеба Питон\DZ8\Zadacha056_StrokaMenshSum\bin\Debug\net6.0\Zadacha056_StrokaMenshSum.pdb
+C:\Users\mysta\Desktop\Учеба Питон\DZ8\Zadacha056_StrokaMenshSum\obj\Debug\net6.0\Zadacha056_StrokaMenshSum.csproj.AssemblyReference.cache
+C:\Users\mysta\Desktop\Учеба Питон\DZ8\Zadacha056_StrokaMenshSum\obj\Debug\net6.0\Zadacha056_StrokaMenshSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mysta\Desktop\Учеба Питон\DZ8\Zadacha056_StrokaMenshSum\obj\Debug\net6.0\Zadacha056_StrokaMenshSum.AssemblyInfoInputs.cache
+C:\Users\mysta\Desktop\Учеба Питон\DZ8\Zadacha056_StrokaMenshSum\obj\Debug\net6.0\Zadacha056_StrokaMenshSum.AssemblyInfo.cs
+C:\Users\mysta\Desktop\Учеба Питон\DZ8\Zadacha056_StrokaMenshSum\obj\Debug\net6.0\Zadacha056_StrokaMenshSum.csproj.CoreCompileInputs.cache
+C:\Users\mysta\Desktop\Учеба Питон\DZ8\Zadacha056_StrokaMenshSum\obj\Debug\net6.0\Zadacha056_StrokaMenshSum.dll
+C:\Users\mysta\Desktop\Учеба Питон\DZ8\Zadacha056_StrokaMenshSum\obj\Debug\net6.0\refint\Zadacha056_StrokaMenshSum.dll
+C:\Users\mysta\Desktop\Учеба Питон\DZ8\Zadacha056_StrokaMenshSum\obj\Debug\net6.0\Zadacha056_StrokaMenshSum.pdb
+C:\Users\mysta\Desktop\Учеба Питон\DZ8\Zadacha056_StrokaMenshSum\obj\Debug\net6.0\Zadacha056_StrokaMenshSum.genruntimeconfig.cache
+C:\Users\mysta\Desktop\Учеба Питон\DZ8\Zadacha056_StrokaMenshSum\obj\Debug\net6.0\ref\Zadacha056_StrokaMenshSum.dll
